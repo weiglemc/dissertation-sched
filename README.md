@@ -6,14 +6,14 @@ Instructions: [Fork](https://help.github.com/en/github/getting-started-with-gith
 
 ## Dissertation Selection
 
-I want a bulleted list of student name, GitHub username, dissertation title, author, year, URL.  Your line should look something like:
+I want a numbered list of student name, GitHub username, dissertation title, author, year, URL.  Your line should look something like:
 
 Michele Weigle (@weiglemc) - "Providing Location Security in Vehicular Networks", Gongjun Yan, 2010, https://digitalcommons.odu.edu/computerscience_etds/5
 
 Edit the list below:
 
-* Student 1
-* Student 2
+1. Student 1
+1. Student 2
 
 ## Scheduling
 
