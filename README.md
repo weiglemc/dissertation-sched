@@ -2,7 +2,9 @@
 
 *We're doing things this way to give you a bit more experience with GitHub, repos, forking, and pull requests (PR).*
 
-Instructions: [Fork](https://help.github.com/en/github/getting-started-with-github/fork-a-repo) this repository, [pull any updates from the main repo](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/merging-an-upstream-repository-into-your-fork) ([instructions for doing this via github.com](https://stackoverflow.com/questions/20984802/how-can-i-keep-my-fork-in-sync-without-adding-a-separate-remote/21131381#21131381)), make your updates, and commit as a new branch with a [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork).
+**Instructions:** [Fork](https://help.github.com/en/github/getting-started-with-github/fork-a-repo) this repository, [pull any updates from the main repo](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/merging-an-upstream-repository-into-your-fork) ([instructions for doing this via github.com](https://stackoverflow.com/questions/20984802/how-can-i-keep-my-fork-in-sync-without-adding-a-separate-remote/21131381#21131381)), make your updates, and commit as a new branch with a [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork).
+
+*I would encourage you to read the pages linked above so that you understand the process.  A walk-through of the steps is available at [fork-PR-steps.md](fork-PR-steps.md)*
 
 ## Dissertation Selection
 
